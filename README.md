@@ -424,7 +424,7 @@ _Annontation:_
 ### <a name="besd-image"> besd
 
 **_Note_**: The _besd_, _olfs_, and _ncWMS_ containers are tested only minimally
-by us at thsi time (Nov 2018) and are really for specialized cases wehre fine-grained
+by us at this time (Nov 2018) and are really for specialized cases where fine-grained
 control over the server tiers is needed. You'll need to build these containers yourself.
 
 This CentOS-7 based image contains just the BES component of the Hyrax server.
